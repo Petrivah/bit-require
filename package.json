@@ -1,0 +1,9 @@
+{
+  "name": "bit-require",
+  "version": "0.0.0",
+  "description": "A little better experiencewith Bit.dev",
+  "main": "index.js",
+  "repository": "https://github.com/Petrivah/bit-require",
+  "author": "wynell",
+  "license": "MIT"
+}
