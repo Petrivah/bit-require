@@ -1,8 +1,8 @@
 {
   "name": "bit-require",
   "version": "0.0.0",
-  "description": "A little better experiencewith Bit.dev",
-  "main": "index.js",
+  "description": "A little better experience with Bit.dev",
+  "main": "lib/index.js",
   "repository": "https://github.com/Petrivah/bit-require",
   "author": "wynell",
   "license": "MIT"
