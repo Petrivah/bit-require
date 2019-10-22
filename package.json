@@ -5,5 +5,11 @@
   "main": "lib/index.js",
   "repository": "https://github.com/Petrivah/bit-require",
   "author": "wynell",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+	"bit",
+	"bit.dev",
+	"wrapper",
+	"require"
+  ]
 }
